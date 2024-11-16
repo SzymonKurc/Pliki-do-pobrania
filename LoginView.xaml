@@ -1,0 +1,37 @@
+  <Grid VerticalAlignment="Center"
+          HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0"
+                   Text="Log In"
+                   FontSize="36"
+                   Margin="0,0,0,25"/>
+
+        <Label Grid.Row="1"
+               Content="Username"
+               FontSize="16"/>
+        <TextBox Grid.Row="2"
+                 Name="UsernameTextBox"
+                 Width="200"
+                 Margin="0,0,0,5"/>
+
+        <Label Grid.Row="3"
+               Content="Password"
+               FontSize="16"/>
+        <PasswordBox Grid.Row="4"
+                     Name="PasswordBox"
+                     Width="200"
+                     Margin="0,0,0,15"/>
+
+        <Button Grid.Row="5"
+                Content="Log in"
+                Click="Button_Click"/>
+
+    </Grid>
