@@ -1,0 +1,17 @@
+<div class="main">
+    <div class="container">
+        <div class="row">
+            <input type="text" id="firstValue" class="value-input" [(ngModel)]="FirstValue" name="firstValue">
+            <span id="operationText" class="operation-text">+</span>
+            <input type="text" id="secondValue" class="value-input" [(ngModel)]="SecondValue" name="secondValue">
+            <span class="equal-sign">=</span>
+            <span id="answerText" class="result-text">{{ Result }}</span>
+        </div>
+        <div class="row buttons-row">
+            <button class="operation-button" (click)="addValues()">+</button>
+            <button class="operation-button" (click)="subtractValues()">-</button>
+            <button class="operation-button" (click)="divideValues()">/</button>
+            <button class="operation-button" (click)="multiplyValues()">*</button>
+        </div>
+    </div>
+</div>
