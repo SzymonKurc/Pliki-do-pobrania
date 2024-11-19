@@ -25,6 +25,4 @@ Uruchamiamy projekt w CMD w folderze projektu
 ng serve
 ```
 http://localhost:4200/
-## 5. Screenshots
-![alt text](resources/img/Szymon.Kurc.screenshot0.PNG)
-![alt text](resources/img/Szymon.Kurc.screenshot1.PNG)
+
