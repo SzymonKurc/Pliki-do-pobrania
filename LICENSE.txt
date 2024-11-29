@@ -1,0 +1,31 @@
+Copyright (C) Jakub Jóźwik, Szymon Kurc 2024
+
+Niniejszy kod źródłowy („Kod”) jest chroniony prawem autorskim i udostępniany wyłącznie do użytku osobistego na warunkach opisanych poniżej.
+
+Kod: Kodem jest wszelka zawartość niniejszego repozytorium, w tym pliki źródłowe, skrypty, dokumentacja, dane, pliki graficzne oraz wszelkie inne materiały w nim zawarte, niezależnie od formatu. Kod obejmuje także automatycznie generowane pliki dodane do repozytorium, chyba że zaznaczono inaczej. Kod nie obejmuje plików tymczasowych lub wynikowych generowanych przez narzędzia programistyczne, które nie zostały dodane do repozytorium.
+
+Użytkownik: Użytkownikiem jest każda osoba, która pobiera, kopiuje, przegląda lub w inny sposób uzyskuje dostęp do Kodu, niezależnie od celu.
+
+1. Dozwolone działania:
+   a) Użytkownik ma prawo pobrać Kod i uruchamiać go wyłącznie na swoim komputerze osobistym.
+
+2. Zabronione działania:
+   a) Zabrania się rozpowszechniania Kodu w jakiejkolwiek formie (z wyjątkiem udostępnienia linku do oryginalnego repozytorium).
+   
+   b) Zabrania się modyfikacji Kodu oraz usuwania informacji o autorach.
+
+   c) Zabrania się wykorzystywania Kodu lub jego fragmentów w innych projektach, prezentacjach czy materiałach.
+   
+   d) Zabrania się używania Kodu w celach komercyjnych.
+
+4. Wyłączenie odpowiedzialności:
+   Kod jest udostępniany „w stanie, w jakim jest” („as is”). Autorzy nie ponoszą odpowiedzialności za jakiekolwiek szkody, straty lub konsekwencje wynikające z korzystania z Kodu.
+
+5. Jurysdykcja i obowiązujące prawo:
+   Niniejsza licencja podlega prawu Polski. Wszelkie spory wynikające z jej naruszenia będą rozstrzygane przez sąd właściwy dla miasta Poznań.
+
+Każde naruszenie tych zasad będzie traktowane jako złamanie prawa autorskiego.
+
+Autorzy:
+Jakub Jóźwik (kubajozwik20027@gmail.com)  
+Szymon Kurc (szymekkurc@gmail.com)
